@@ -13,9 +13,8 @@ Azure Databricks (PySpark) – Transformations
 
 Delta Lake – ACID tables & incremental processing
 
-Power BI – Analytics & visualization
 
 ## Architecture
-Local CSV (E-commerce) - RAW (ADLS) - BRONZE (Delta) - SILVER (Clean + Join) -  GOLD (KPIs) - POWER BI Dashboard
+Local CSV (E-commerce) - RAW (ADLS) - BRONZE (Delta) - SILVER (Clean + Join) -  GOLD (KPIs) 
 
     
