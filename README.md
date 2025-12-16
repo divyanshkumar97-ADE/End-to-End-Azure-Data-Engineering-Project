@@ -3,11 +3,16 @@ This project demonstrates a production-style end-to-end data engineering pipelin
 
 ## Tech Stack
 
-Azure Data Factory (ADF) – Orchestration & ingestion
+Azure Data Factory (ADF) – Orchestration & ingestion 
+
 Self-Hosted Integration Runtime (SHIR) – Local data ingestion
+
 Azure Data Lake Gen2 – Storage
+
 Azure Databricks (PySpark) – Transformations
+
 Delta Lake – ACID tables & incremental processing
+
 Power BI – Analytics & visualization
 
 ## Architecture
