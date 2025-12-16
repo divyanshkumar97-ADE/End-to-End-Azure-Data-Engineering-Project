@@ -16,24 +16,6 @@ Delta Lake – ACID tables & incremental processing
 Power BI – Analytics & visualization
 
 ## Architecture
-Local CSV (E-commerce)
-        |
-        | (ADF + SHIR)
-        v
-     RAW (ADLS)
-        |
-        | (Databricks)
-        v
-   BRONZE (Delta)
-        |
-        | (Databricks)
-        v
-   SILVER (Clean + Join)
-        |
-        | (Databricks)
-        v
-    GOLD (KPIs)
-        |            
-        | (Power BI)
-        v
-   Business Dashboards    
+Local CSV (E-commerce) - RAW (ADLS) - BRONZE (Delta) - SILVER (Clean + Join) -  GOLD (KPIs) - POWER BI Dashboard
+
+    
